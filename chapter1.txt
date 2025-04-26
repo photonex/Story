@@ -1,1 +1,1 @@
-it was the best  time when i spend with shreya.
+All right guys, in this lesson, we're going to be talking all about the .gitignore and how you can use.
